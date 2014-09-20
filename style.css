@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+ 
+<head>
+#header {
+    background-image: url("img/background-image.png");
+    background-repeat: repeat-x;
+}
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+ 
+body { 
+    background-size: cover;
+    background-position: center;
+}
+ 
+input{
+    border: 0;
+    padding: 10px;
+}
+ 
+ 
+h2 { Tasky
+    color: #ffffff;
+}
+ 
+hr {
+    color: red;
+}
+ 
+<p>Beautiful, simple and easy to use task manager</p>
+<img src="images/stripes.png">
+<img src="images/background.jpg">
+ 
+</body>
+ 
+</html>
